@@ -1,0 +1,63 @@
+C:\Users\akkas\Desktop\Test 94\CompanyEmployees\Service\bin\Debug\net6.0\Service.deps.json
+C:\Users\akkas\Desktop\Test 94\CompanyEmployees\Service\bin\Debug\net6.0\Service.dll
+C:\Users\akkas\Desktop\Test 94\CompanyEmployees\Service\bin\Debug\net6.0\Service.pdb
+C:\Users\akkas\Desktop\Test 94\CompanyEmployees\Service\bin\Debug\net6.0\Contracts.dll
+C:\Users\akkas\Desktop\Test 94\CompanyEmployees\Service\bin\Debug\net6.0\Entites.dll
+C:\Users\akkas\Desktop\Test 94\CompanyEmployees\Service\bin\Debug\net6.0\Service.Contracts.dll
+C:\Users\akkas\Desktop\Test 94\CompanyEmployees\Service\bin\Debug\net6.0\Shared.DataTransferObjects.dll
+C:\Users\akkas\Desktop\Test 94\CompanyEmployees\Service\bin\Debug\net6.0\Contracts.pdb
+C:\Users\akkas\Desktop\Test 94\CompanyEmployees\Service\bin\Debug\net6.0\Service.Contracts.pdb
+C:\Users\akkas\Desktop\Test 94\CompanyEmployees\Service\bin\Debug\net6.0\Entites.pdb
+C:\Users\akkas\Desktop\Test 94\CompanyEmployees\Service\bin\Debug\net6.0\Shared.DataTransferObjects.pdb
+C:\Users\akkas\Desktop\Test 94\CompanyEmployees\Service\obj\Debug\net6.0\Service.csproj.AssemblyReference.cache
+C:\Users\akkas\Desktop\Test 94\CompanyEmployees\Service\obj\Debug\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akkas\Desktop\Test 94\CompanyEmployees\Service\obj\Debug\net6.0\Service.AssemblyInfoInputs.cache
+C:\Users\akkas\Desktop\Test 94\CompanyEmployees\Service\obj\Debug\net6.0\Service.AssemblyInfo.cs
+C:\Users\akkas\Desktop\Test 94\CompanyEmployees\Service\obj\Debug\net6.0\Service.csproj.CoreCompileInputs.cache
+C:\Users\akkas\Desktop\Test 94\CompanyEmployees\Service\obj\Debug\net6.0\Service.csproj.CopyComplete
+C:\Users\akkas\Desktop\Test 94\CompanyEmployees\Service\obj\Debug\net6.0\Service.dll
+C:\Users\akkas\Desktop\Test 94\CompanyEmployees\Service\obj\Debug\net6.0\refint\Service.dll
+C:\Users\akkas\Desktop\Test 94\CompanyEmployees\Service\obj\Debug\net6.0\Service.pdb
+C:\Users\akkas\Desktop\Test 94\CompanyEmployees\Service\obj\Debug\net6.0\ref\Service.dll
+C:\Users\akkas\Desktop\Summer training (CMSE400)\Test 94\CompanyEmployees\Service\bin\Debug\net6.0\Service.deps.json
+C:\Users\akkas\Desktop\Summer training (CMSE400)\Test 94\CompanyEmployees\Service\bin\Debug\net6.0\Service.dll
+C:\Users\akkas\Desktop\Summer training (CMSE400)\Test 94\CompanyEmployees\Service\bin\Debug\net6.0\Service.pdb
+C:\Users\akkas\Desktop\Summer training (CMSE400)\Test 94\CompanyEmployees\Service\bin\Debug\net6.0\Contracts.dll
+C:\Users\akkas\Desktop\Summer training (CMSE400)\Test 94\CompanyEmployees\Service\bin\Debug\net6.0\Entites.dll
+C:\Users\akkas\Desktop\Summer training (CMSE400)\Test 94\CompanyEmployees\Service\bin\Debug\net6.0\Service.Contracts.dll
+C:\Users\akkas\Desktop\Summer training (CMSE400)\Test 94\CompanyEmployees\Service\bin\Debug\net6.0\Shared.DataTransferObjects.dll
+C:\Users\akkas\Desktop\Summer training (CMSE400)\Test 94\CompanyEmployees\Service\bin\Debug\net6.0\Contracts.pdb
+C:\Users\akkas\Desktop\Summer training (CMSE400)\Test 94\CompanyEmployees\Service\bin\Debug\net6.0\Service.Contracts.pdb
+C:\Users\akkas\Desktop\Summer training (CMSE400)\Test 94\CompanyEmployees\Service\bin\Debug\net6.0\Entites.pdb
+C:\Users\akkas\Desktop\Summer training (CMSE400)\Test 94\CompanyEmployees\Service\bin\Debug\net6.0\Shared.DataTransferObjects.pdb
+C:\Users\akkas\Desktop\Summer training (CMSE400)\Test 94\CompanyEmployees\Service\obj\Debug\net6.0\Service.csproj.AssemblyReference.cache
+C:\Users\akkas\Desktop\Summer training (CMSE400)\Test 94\CompanyEmployees\Service\obj\Debug\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akkas\Desktop\Summer training (CMSE400)\Test 94\CompanyEmployees\Service\obj\Debug\net6.0\Service.AssemblyInfoInputs.cache
+C:\Users\akkas\Desktop\Summer training (CMSE400)\Test 94\CompanyEmployees\Service\obj\Debug\net6.0\Service.AssemblyInfo.cs
+C:\Users\akkas\Desktop\Summer training (CMSE400)\Test 94\CompanyEmployees\Service\obj\Debug\net6.0\Service.csproj.CoreCompileInputs.cache
+C:\Users\akkas\Desktop\Summer training (CMSE400)\Test 94\CompanyEmployees\Service\obj\Debug\net6.0\Service.csproj.CopyComplete
+C:\Users\akkas\Desktop\Summer training (CMSE400)\Test 94\CompanyEmployees\Service\obj\Debug\net6.0\Service.dll
+C:\Users\akkas\Desktop\Summer training (CMSE400)\Test 94\CompanyEmployees\Service\obj\Debug\net6.0\refint\Service.dll
+C:\Users\akkas\Desktop\Summer training (CMSE400)\Test 94\CompanyEmployees\Service\obj\Debug\net6.0\Service.pdb
+C:\Users\akkas\Desktop\Summer training (CMSE400)\Test 94\CompanyEmployees\Service\obj\Debug\net6.0\ref\Service.dll
+C:\Users\akkas\Desktop\Semester (7)\Summer training (CMSE400)\Test 94\CompanyEmployees\Service\bin\Debug\net6.0\Service.deps.json
+C:\Users\akkas\Desktop\Semester (7)\Summer training (CMSE400)\Test 94\CompanyEmployees\Service\bin\Debug\net6.0\Service.dll
+C:\Users\akkas\Desktop\Semester (7)\Summer training (CMSE400)\Test 94\CompanyEmployees\Service\bin\Debug\net6.0\Service.pdb
+C:\Users\akkas\Desktop\Semester (7)\Summer training (CMSE400)\Test 94\CompanyEmployees\Service\bin\Debug\net6.0\Contracts.dll
+C:\Users\akkas\Desktop\Semester (7)\Summer training (CMSE400)\Test 94\CompanyEmployees\Service\bin\Debug\net6.0\Entites.dll
+C:\Users\akkas\Desktop\Semester (7)\Summer training (CMSE400)\Test 94\CompanyEmployees\Service\bin\Debug\net6.0\Service.Contracts.dll
+C:\Users\akkas\Desktop\Semester (7)\Summer training (CMSE400)\Test 94\CompanyEmployees\Service\bin\Debug\net6.0\Shared.DataTransferObjects.dll
+C:\Users\akkas\Desktop\Semester (7)\Summer training (CMSE400)\Test 94\CompanyEmployees\Service\bin\Debug\net6.0\Contracts.pdb
+C:\Users\akkas\Desktop\Semester (7)\Summer training (CMSE400)\Test 94\CompanyEmployees\Service\bin\Debug\net6.0\Service.Contracts.pdb
+C:\Users\akkas\Desktop\Semester (7)\Summer training (CMSE400)\Test 94\CompanyEmployees\Service\bin\Debug\net6.0\Entites.pdb
+C:\Users\akkas\Desktop\Semester (7)\Summer training (CMSE400)\Test 94\CompanyEmployees\Service\bin\Debug\net6.0\Shared.DataTransferObjects.pdb
+C:\Users\akkas\Desktop\Semester (7)\Summer training (CMSE400)\Test 94\CompanyEmployees\Service\obj\Debug\net6.0\Service.csproj.AssemblyReference.cache
+C:\Users\akkas\Desktop\Semester (7)\Summer training (CMSE400)\Test 94\CompanyEmployees\Service\obj\Debug\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akkas\Desktop\Semester (7)\Summer training (CMSE400)\Test 94\CompanyEmployees\Service\obj\Debug\net6.0\Service.AssemblyInfoInputs.cache
+C:\Users\akkas\Desktop\Semester (7)\Summer training (CMSE400)\Test 94\CompanyEmployees\Service\obj\Debug\net6.0\Service.AssemblyInfo.cs
+C:\Users\akkas\Desktop\Semester (7)\Summer training (CMSE400)\Test 94\CompanyEmployees\Service\obj\Debug\net6.0\Service.csproj.CoreCompileInputs.cache
+C:\Users\akkas\Desktop\Semester (7)\Summer training (CMSE400)\Test 94\CompanyEmployees\Service\obj\Debug\net6.0\Service.csproj.CopyComplete
+C:\Users\akkas\Desktop\Semester (7)\Summer training (CMSE400)\Test 94\CompanyEmployees\Service\obj\Debug\net6.0\Service.dll
+C:\Users\akkas\Desktop\Semester (7)\Summer training (CMSE400)\Test 94\CompanyEmployees\Service\obj\Debug\net6.0\refint\Service.dll
+C:\Users\akkas\Desktop\Semester (7)\Summer training (CMSE400)\Test 94\CompanyEmployees\Service\obj\Debug\net6.0\Service.pdb
+C:\Users\akkas\Desktop\Semester (7)\Summer training (CMSE400)\Test 94\CompanyEmployees\Service\obj\Debug\net6.0\ref\Service.dll
